@@ -11,7 +11,7 @@ class index extends Component {
   render() {
     return (
       <View>
-        <Text> index 1233 </Text>
+        <Text> indexffff 1233 </Text>
       </View>
     );
   }
